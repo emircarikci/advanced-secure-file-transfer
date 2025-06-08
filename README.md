@@ -26,12 +26,7 @@ Bu proje, bilgisayar ağlarında **güvenli dosya aktarımı** sağlamak amacıy
 ├── udp_server.py            # UDP sunucu alternatifi
 ├── tcp_server.py            # TCP sunucu alternatifi
 ├── ip_header_test.py        # IP başlık kontrolü
-├── requirements.txt         # Bağımlılık listesi
 ├── README.md                # Proje açıklaması
-└── Yeni klasör/
-    ├── AraRapor_EmirCarikci_21360859060.pdf
-    └── Bilgisayar Ağları Dönem Projesi.pdf
-```
 
 ---
 
@@ -77,29 +72,6 @@ python gui.py
 ## 🖼️ Örnek Ekran Görüntüsü
 
 > *(Buraya `docs/` klasörüne koyacağınız bir GUI veya terminal çıktısı görselini ekleyebilirsiniz)*
-
----
-
-## 📄 Belgeler
-
-- Ara rapor: `Yeni klasör/AraRapor_EmirCarikci_21360859060.pdf`
-- Final proje raporu: `Yeni klasör/Bilgisayar Ağları Dönem Projesi.pdf`
-
----
-
-## 🚫 .gitignore Önerisi
-
-```gitignore
-# Sanal ortamlar ve sistem dosyaları
-.venv/
-__pycache__/
-.DS_Store
-
-# Gizli anahtarlar ve çıktılar
-*.pem
-*.txt
-*.docx
-```
 
 ---
 
