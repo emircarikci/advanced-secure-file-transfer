@@ -69,11 +69,6 @@ python gui.py
 
 ---
 
-## 🖼️ Örnek Ekran Görüntüsü
-
-> *(Buraya `docs/` klasörüne koyacağınız bir GUI veya terminal çıktısı görselini ekleyebilirsiniz)*
-
----
 
 ## 📌 Notlar
 
